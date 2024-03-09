@@ -7,13 +7,13 @@
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
+- JavaScript
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://regal-creponne-e4250a.netlify.app/)
 
 
 ## Getting Started
