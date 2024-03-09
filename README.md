@@ -1,9 +1,9 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Ajax Type Ahead
 
-> Description the project.
+> In this exercises i learn about promises to access an a Api endpoint and return values that you want to search.
 
+![](/image/ajax.png)
 
 ## Built With
 
@@ -18,39 +18,18 @@
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+````
+$git clone https://github.com/jdbs9514/Ajax-type-ahead.git
+````
 
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@jdbs9514](https://github.com/jdbs9514)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/macoin)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
